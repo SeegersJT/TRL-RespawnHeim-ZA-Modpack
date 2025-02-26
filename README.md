@@ -68,7 +68,8 @@ This modpack can be used for **both personal gameplay** and for joining our **de
 - Join our Discord server to find party members, discuss strategies, and report any issues.
 - The **TRL - RespawnHeim - ZA** Valheim server is hosted in **South Africa**, so players outside the region may experience higher latency.
 
-[Join the Discord](https://discord.gg/kCrFgqavxD)
+[Join Discord - The Respawn Lounge](https://discord.gg/kCrFgqavxD)
+[View the Code - GitHub](https://github.com/SeegersJT/TRL-RespawnHeim-ZA-Modpack)
 
 ## Credits
 
