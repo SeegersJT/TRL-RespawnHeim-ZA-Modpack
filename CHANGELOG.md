@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.1.7
+- Visual Changes to the Readme file.
+
 ## Version 1.1.6
 - Fixed an issue where players were **Temporarily Banned** from the dedicated server due to incorrect anti-cheat mod configuration.
 
