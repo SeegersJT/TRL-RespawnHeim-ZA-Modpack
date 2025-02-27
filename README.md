@@ -2,7 +2,7 @@
 
 Welcome to **TRL - RespawnHeim - [ZA]**, a modded Valheim experience designed for adventurers, warriors, and builders alike. This modpack enhances every aspect of Valheim, from combat and exploration to crafting and settlement building. Hosted on the **The Respawn Lounge** Discord server, this world brings together players who want a richer, more immersive Viking experience.
 
-# ![TRL RespawnHeim Banner](./media/banner.jpg)
+# ![TRL RespawnHeim Banner](./media/banner-icon.png)
 
 ## Features
 
