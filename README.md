@@ -2,11 +2,13 @@
 
 Welcome to **TRL - RespawnHeim - [ZA]**, a modded Valheim experience designed for adventurers, warriors, and builders alike. This modpack enhances every aspect of Valheim, from combat and exploration to crafting and settlement building. Hosted on the **The Respawn Lounge** Discord server, this world brings together players who want a richer, more immersive Viking experience.
 
-# ![TRL RespawnHeim Banner](./media/banner-icon.png)
+# ![TRL RespawnHeim Banner](./media/TLR_Logo_-_Transparent_-_With_Splashes.webp)
 
 ## Features
 
 ### ⚔️ Combat Enhancements
+
+# ![TRL RespawnHeim Banner](./media/fire.png)
 
 - **[Therzie's Warfare & Armory](https://valheim.thunderstore.io/package/Therzie/Warfare/)** – Expands your arsenal with new weapons and armor.
 - **[Better Archery](https://valheim.thunderstore.io/package/ishid4/BetterArchery/)** – Improves bow mechanics for a more satisfying ranged combat experience.
@@ -15,12 +17,16 @@ Welcome to **TRL - RespawnHeim - [ZA]**, a modded Valheim experience designed fo
 
 ### 🌱 Farming, Crafting & Survival
 
+# ![TRL RespawnHeim Banner](./media/meadows.png)
+
 - **[Plant Everything & Plant Easily](https://valheim.thunderstore.io/package/Advize/PlantEverything/)** – Grow crops, herbs, and more to sustain your Viking clan.
 - **[Farming, Cooking & Ranching](https://valheim.thunderstore.io/package/Smoothbrain/Farming/)** – Enhances food production and animal husbandry.
 - **[Adventure Backpacks & PackHorse](https://valheim.thunderstore.io/package/Vapok/AdventureBackpacks/)** – Manage your inventory more efficiently on long journeys.
 - **[HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/)** – Expands beekeeping and honey production.
 
 ### 🏠 Building & Settlement Expansion
+
+# ![TRL RespawnHeim Banner](./media/campfire.png)
 
 - **[Advanced Terrain Modifiers](https://valheim.thunderstore.io/package/Searica/AdvancedTerrainModifiers/)** – Shape the land to your needs.
 - **[Smoothbrain-Building](https://valheim.thunderstore.io/package/Smoothbrain/Building/)** – Adds new construction tools and improvements.
@@ -31,12 +37,16 @@ Welcome to **TRL - RespawnHeim - [ZA]**, a modded Valheim experience designed fo
 
 ### 🌍 Exploration & Adventure
 
+# ![TRL RespawnHeim Banner](./media/black-forest.png)
+
 - **[Sailing & Exploration](https://valheim.thunderstore.io/package/Smoothbrain/Sailing/)** – Enhances biome discovery and adventure.
 - **[Venture Location Reset](https://valheim.thunderstore.io/package/VentureValheim/Venture_Location_Reset/)** – Respawns key locations for replayability.
 - **[Longer Days](https://valheim.thunderstore.io/package/TastyChickenLegs/LongerDays/)** – Extends daylight hours for more adventuring.
 - **[Where You At](https://valheim.thunderstore.io/package/Azumatt/Where_You_At/)** – Helps locate players easily.
 
 ### ⚙️ Utility & Quality of Life
+
+# ![TRL RespawnHeim Banner](./media/ocean.png)
 
 - **[Quick Stack, Store, Sort, Trash & Restock](https://valheim.thunderstore.io/package/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/)** – Improves inventory management.
 - **[FastLink](https://valheim.thunderstore.io/package/Azumatt/FastLink/)** – Enhances server connectivity. By default, our dedicated Valheim server is included as one of the default FastLink links—feel free to add more for your own server.
@@ -45,6 +55,8 @@ Welcome to **TRL - RespawnHeim - [ZA]**, a modded Valheim experience designed fo
 - **[Network](https://valheim.thunderstore.io/package/Smoothbrain/Network/)** – Improves server and client interactions.
 
 ### 🔐 Multiplayer & Server Management
+
+# ![TRL RespawnHeim Banner](./media/mistlands.png)
 
 - **[Server Characters & AzuAntiCheat](https://valheim.thunderstore.io/package/Smoothbrain/ServerCharacters/)** – Maintains fair play in multiplayer sessions.
 - **[Ward Is Love](https://valheim.thunderstore.io/package/Azumatt/WardIsLove/)** – Protects your base and prevents griefing.
