@@ -1,9 +1,11 @@
 # Changelog
 
+## Version 1.1.6
+- Fixed an issue where players were **Temporarily Banned** from the dedicated server due to incorrect anti-cheat mod configuration.
+
 ## Version 1.1.5
 - Added **Github Repository**.
 - Small Changes to the README
-
 
 ## Version 1.1.4
 - Added **Links** to all mods being used.
