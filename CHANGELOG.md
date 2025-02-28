@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.1.8
+- Redid the **README** file for improved clarity and structure.
+- Added small **Quality of Life (QoL)** mods for enhanced gameplay experience.
+
 ## Version 1.1.7
 - Visual Changes to the Readme file.
 

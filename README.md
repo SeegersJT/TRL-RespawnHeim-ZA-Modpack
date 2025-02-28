@@ -2,6 +2,8 @@
 
 Welcome to **TRL RespawnHeim ZA**, a custom Valheim modpack designed to enhance gameplay with immersive features. Experience improved combat, exploration, farming, and building mechanics for a richer adventure in Valheim!
 
+# ![TRL RespawnHeim Banner](https://github.com/SeegersJT/TRL-RespawnHeim-ZA-Modpack/blob/main/media/banner-1.webp)
+
 ## 🌟 Features
 
 - **Enhanced Combat**: Improved archery, weaponry, and combat mechanics for thrilling battles.
@@ -12,16 +14,22 @@ Welcome to **TRL RespawnHeim ZA**, a custom Valheim modpack designed to enhance 
 - **Exploration & Navigation**: Revamped sailing, automatic map pins, and location resets.
 - **Multiplayer Enhancements**: Server-side character saves, anti-cheat measures, and Discord integration.
 
+# ![TRL RespawnHeim Banner](https://github.com/SeegersJT/TRL-RespawnHeim-ZA-Modpack/blob/main/media/banner-2.webp)
+
 ## 🔗 Join the Community
 Join our Discord community for support, updates, and discussions:
+
 [Join Now](https://discord.gg/kCrFgqavxD)
 
+# ![TRL RespawnHeim Banner](https://github.com/SeegersJT/TRL-RespawnHeim-ZA-Modpack/blob/main/media/banner-3.webp)
+
 ## 📦 Installation
+
 ### Prerequisites:
 - [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager)
 
 ### Hotlink:
- - [Install with Mod Manager](ror2mm://v1/install/thunderstore.io/TheRespawnLounge/TRL_RespawnHeim_ZA/1.1.7/)
+- [Install with Mod Manager](ror2mm://v1/install/thunderstore.io/TheRespawnLounge/TRL_RespawnHeim_ZA/1.1.7/)
 
 ### Manual:
 To install TRL RespawnHeim ZA:
@@ -29,6 +37,8 @@ To install TRL RespawnHeim ZA:
 2. Search for **TRL RespawnHeim ZA** in the Valheim section.
 3. Click **Download** and launch the game through the mod manager.
 4. Enjoy the enhanced Valheim experience!
+
+# ![TRL RespawnHeim Banner](https://github.com/SeegersJT/TRL-RespawnHeim-ZA-Modpack/blob/main/media/banner-4.webp)
 
 ## 📜 Mod List
 TRL RespawnHeim ZA includes a hand-picked selection of mods for an optimal experience. Some highlights:
@@ -43,11 +53,15 @@ TRL RespawnHeim ZA includes a hand-picked selection of mods for an optimal exper
 
 For the full mod list, check the `manifest.json`.
 
+# ![TRL RespawnHeim Banner](https://github.com/SeegersJT/TRL-RespawnHeim-ZA-Modpack/blob/main/media/banner-5.webp)
+
 ## ❓ Support & Troubleshooting
 - Encountering issues? **Restart the game and mod manager**.
 - Make sure all dependencies are up to date.
 - Visit our [Discord server](https://discord.gg/kCrFgqavxD) for help from the community.
 
----
+# ![TRL RespawnHeim Banner](https://github.com/SeegersJT/TRL-RespawnHeim-ZA-Modpack/blob/main/media/banner-6.webp)
+
 **Explore. Build. Conquer.** Enjoy your adventure in **TRL RespawnHeim ZA**!
 
+# ![TRL RespawnHeim Banner](https://github.com/SeegersJT/TRL-RespawnHeim-ZA-Modpack/blob/main/media/banner-7.webp)
