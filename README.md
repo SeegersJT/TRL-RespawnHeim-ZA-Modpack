@@ -7,8 +7,8 @@ Welcome to **TRL RespawnHeim ZA**, a custom Valheim modpack designed to enhance 
 ## 🌟 Features
 
 - **Enhanced Combat**: Improved archery, weaponry, and combat mechanics for thrilling battles.
-- **Mounts & Backpacks**: Ride horses and carry more gear with backpacks.
-- **Longer Days**: Enjoy extended daylight hours for more exploration and survival time.
+- **Mounts & Pack Horses**: Ride horses and use pack horses to carry more gear.
+- **Longer Days**: Extended daylight hours for more exploration and survival time.
 - **Improved Farming & Cooking**: Expanded farming options, better ranching, and advanced cooking mechanics.
 - **Better Building & Crafting**: More creative freedom with building tweaks and workbench improvements.
 - **Exploration & Navigation**: Revamped sailing, automatic map pins, and location resets.
@@ -29,10 +29,10 @@ Join our Discord community for support, updates, and discussions:
 - [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager)
 
 ### Hotlink:
-- Use the **"Install with Mod Manager"** button or paste this link into your URL: `ror2mm://v1/install/thunderstore.io/TheRespawnLounge/TRL_RespawnHeim_ZA/1.1.11/`
+- Use the **"Install with Mod Manager"** button or paste this link into your URL:  
+  `ror2mm://v1/install/thunderstore.io/TheRespawnLounge/TRL_RespawnHeim_ZA/1.1.11/`
 
-### Manual:
-To install TRL RespawnHeim ZA:
+### Manual Installation:
 1. Install **Thunderstore Mod Manager** or **r2modman**.
 2. Search for **TRL RespawnHeim ZA** in the Valheim section.
 3. Click **Download** and launch the game through the mod manager.
@@ -43,13 +43,63 @@ To install TRL RespawnHeim ZA:
 ## 📜 Mod List
 TRL RespawnHeim ZA includes a hand-picked selection of mods for an optimal experience. Some highlights:
 
-- **Core Mods**: BepInEx, Jotunn
-- **Combat**: Warfare, Armory, Better Archery, Evasion, Vitality
-- **Exploration & Survival**: Resurrection, Passive Powers, Sailing, Longer Days
-- **Farming & Cooking**: Plant Everything, Farming, Cooking, Ranching, HoneyPlus
-- **Building & Crafting**: Advanced Terrain Modifiers, Building, Workbench Tweaks
-- **Inventory & Quality of Life**: Equipment & Quick Slots, Adventure Backpacks, Quick Stack & Sort
-- **Multiplayer & Server Features**: Server Characters, Anti-Cheat, Discord Connector
+### **Core Mods:**
+- BepInExPack
+- Jotunn
+- HookGenPatcher
+
+### **Combat & Survival:**
+- Warfare
+- Armory
+- Better Archery
+- Evasion
+- Vitality
+- Passive Powers
+- Tenacity
+
+### **Exploration & Navigation:**
+- Sailing
+- Bigger Boat Map Explore Radius
+- AutoMapPins
+- Venture Location Reset
+
+### **Farming & Cooking:**
+- Plant Everything
+- Farming
+- Cooking
+- Ranching
+- HoneyPlus
+- SeedBed
+- Procreation Plus
+
+### **Building & Crafting:**
+- Advanced Terrain Modifiers
+- Building Improvements
+- Workbench Tweaks
+- FenceSnap
+- Ore Mines
+
+### **Inventory & Quality of Life:**
+- Equipment & Quick Slots
+- Adventure Backpacks
+- Quick Stack & Sort
+- MultiUser Chest
+- Auto Repair
+- Auto Fuel
+- Auto Feed
+- Trash Items
+
+### **Multiplayer & Server Features:**
+- Server Characters
+- Anti-Cheat
+- Discord Connector
+
+### **World Enhancements:**
+- More World Traders
+- Underground Ruins
+- Blackforest, Mistlands, Plains, and Meadows expansion packs
+- Better Continents
+- Weatherman
 
 For the full mod list, check the `manifest.json`.
 

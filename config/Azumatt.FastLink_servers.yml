@@ -5,6 +5,5 @@
 TRL - RespawnHeim - ZA:
   address: therespawnlounge.dat.gg
   port: 21255
-  password: therespawnlounge
   iscrossplay: true
-  ispvp: true
+  ispvp: false

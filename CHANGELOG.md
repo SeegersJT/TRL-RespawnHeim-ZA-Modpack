@@ -1,5 +1,15 @@
 # Changelog
 
+## Version 2.0.1
+- Major overhaul of how mods interact, improving stability and performance.
+- Added multiple new mods to enhance combat, survival, and exploration.
+- Reworked combat balance with **Warfare, Armory, Shields, and Vitality tweaks**.
+- Expanded farming and cooking mechanics with **SeedBed, Procreation Plus, and Advanced Food Mechanics**.
+- Overhauled navigation with **AutoMapPins, Bigger Boat Explore Radius, and Venture Location Reset**.
+- Enhanced building and crafting systems with **Advanced Terrain Modifiers, Workbench Tweaks, and Ore Mines**.
+- Improved multiplayer experience with **Better server optimization, Discord integration, and anti-cheat enhancements**.
+- Additional world content including **More World Traders, Underground Ruins, and biome expansion packs**.
+
 ## Version 1.1.8
 - Redid the **README** file for improved clarity and structure.
 - Added small **Quality of Life (QoL)** mods for enhanced gameplay experience.
