@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 2.0.2
+- Small Patch to get it all working
+
 ## Version 2.0.1
 - Major overhaul of how mods interact, improving stability and performance.
 - Added multiple new mods to enhance combat, survival, and exploration.
