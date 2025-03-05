@@ -1,15 +1,15 @@
 {
   "name": "TRL_RespawnHeim_ZA",
-  "version_number": "2.0.3",
+  "version_number": "2.0.4",
   "website_url": "https://discord.gg/kCrFgqavxD",
   "description": "TRL RespawnHeim ZA is a custom Valheim modpack enhancing gameplay with features like weapons, horses, backpacks, longer days, and more. Enjoy improved combat, exploration, farming, and building mechanics.",
   "dependencies": [
     "Advize-PlantEverything-1.18.3",
     "denikson-BepInExPack_Valheim-5.4.2202",
     "RandyKnapp-EquipmentAndQuickSlots-2.1.14",
-    "Therzie-Warfare-1.8.8",
+    "Therzie-Warfare-1.8.9",
     "OdinPlus-OdinHorse-1.4.12",
-    "Therzie-Armory-1.3.0",
+    "Therzie-Armory-1.3.1",
     "Smoothbrain-Farming-2.2.1",
     "Smoothbrain-Blacksmithing-1.3.2",
     "Smoothbrain-Cooking-1.2.1",
