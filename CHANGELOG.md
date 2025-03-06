@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 2.0.7
+- Updated the following Mods:
+- Jotunn - v2.24.2
+
 ## Version 2.0.6
 - Added FastLink
 
