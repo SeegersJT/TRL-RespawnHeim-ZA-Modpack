@@ -1,5 +1,17 @@
 # Changelog
 
+## Version 2.0.6
+- Added FastLink
+
+## Version 2.0.5
+- Updated the following mods:
+- AzuAntiCheat - 4.3.10
+- PlantEverything - 1.18.4
+
+## Version 2.0.4
+- Added ServerCharacters
+- Added AzuAntiCheat
+
 ## Version 2.0.2
 - Small Patch to get it all working
 
