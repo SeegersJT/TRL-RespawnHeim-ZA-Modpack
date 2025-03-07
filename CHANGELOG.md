@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 2.0.9
+- Removed AutoFeul
+
+## Version 2.0.8
+- Removed AutoFeed
+
 ## Version 2.0.7
 - Updated the following Mods:
 - Jotunn - v2.24.2

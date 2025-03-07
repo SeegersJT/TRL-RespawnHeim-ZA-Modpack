@@ -1,0 +1,86 @@
+03/06/2025 11:40:05 [DEBUG]: Main config: /home/dathost/valheim_ds/valheim_server_Data/BepInEx/config/games.nwest.valheim.discordconnector/discordconnector.cfg
+03/06/2025 11:40:05 [DEBUG]: Messages config: /home/dathost/valheim_ds/valheim_server_Data/BepInEx/config/games.nwest.valheim.discordconnector/discordconnector-messages.cfg
+03/06/2025 11:40:05 [DEBUG]: Toggles config: /home/dathost/valheim_ds/valheim_server_Data/BepInEx/config/games.nwest.valheim.discordconnector/discordconnector-toggles.cfg
+03/06/2025 11:40:05 [DEBUG]: Variable config: /home/dathost/valheim_ds/valheim_server_Data/BepInEx/config/games.nwest.valheim.discordconnector/discordconnector-variables.cfg
+03/06/2025 11:40:05 [DEBUG]: Leader board config: /home/dathost/valheim_ds/valheim_server_Data/BepInEx/config/games.nwest.valheim.discordconnector/discordconnector-leaderBoards.cfg
+03/06/2025 11:40:05 [DEBUG]: Extra Webhook config: /home/dathost/valheim_ds/valheim_server_Data/BepInEx/config/games.nwest.valheim.discordconnector/discordconnector-extraWebhooks.cfg
+03/06/2025 11:40:05 [DEBUG]: Webhooks: cleaned config entry 'playerJoin;playerLeave;playerShout;playerPing;playerDeath' => 'playerJoin;playerLeave;playerShout;playerPing;playerDeath'
+03/06/2025 11:40:05 [DEBUG]: Webhooks: parsed config entry 'playerJoin;playerLeave;playerShout;playerPing;playerDeath' => 'PlayerJoin, PlayerLeave, PlayerShout, PlayerPing, PlayerDeath'
+03/06/2025 11:40:05 [DEBUG]: Webhooks: cleaned config entry 'serverLaunch;serverStart;serverStop;serverShutdown;serverSave;serverNewDay;serverLifeCycle;playerJoin;playerLeave;playerDeath;activePlayers;leaderboard1;cronjob;other;' => 'serverLaunch;serverStart;serverStop;serverShutdown;serverSave;serverNewDay;serverLifeCycle;playerJoin;playerLeave;playerDeath;activePlayers;leaderboard1;cronjob;other;'
+03/06/2025 11:40:05 [DEBUG]: Unmatched event token 'serverNewDay'
+03/06/2025 11:40:05 [DEBUG]: Unmatched event token 'serverLifeCycle'
+03/06/2025 11:40:05 [DEBUG]: Unmatched event token 'other'
+03/06/2025 11:40:05 [DEBUG]: Unmatched event token ''
+03/06/2025 11:40:05 [DEBUG]: Webhooks: parsed config entry 'serverLaunch;serverStart;serverStop;serverShutdown;serverSave;serverNewDay;serverLifeCycle;playerJoin;playerLeave;playerDeath;activePlayers;leaderboard1;cronjob;other;' => 'ServerLaunch, ServerStart, ServerStop, ServerShutdown, ServerSave, None, None, PlayerJoin, PlayerLeave, PlayerDeath, ActivePlayers, Leaderboard1, CronJob, None, None'
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 1 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 2 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 3 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 4 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 5 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 6 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 7 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 8 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 9 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 10 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 11 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 12 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 13 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 14 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 15 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: ExtraWebhooks: Skipping Webhook 16 because URL or Events are empty.
+03/06/2025 11:40:05 [DEBUG]: Configuration Loaded
+03/06/2025 11:40:05 [DEBUG]: Muted Players Regex pattern ('a^' is default for no matches): a^
+03/06/2025 11:40:05 [DEBUG]: Plugin DiscordConnector is loaded!
+03/06/2025 11:40:05 [DEBUG]: Dumped configuration files to config-dump.json
+03/06/2025 11:40:05 [INFO]: Enabling LeaderBoard.1 timer with interval 10h:00m
+03/06/2025 11:40:05 [INFO]: Enabling Player Activity announcement with interval 06h:00m
+03/06/2025 11:40:05 [DEBUG]: LiteDB Connection Established to /home/dathost/valheim_ds/valheim_server_Data/BepInEx/config/games.nwest.valheim.discordconnector/records.db
+03/06/2025 11:40:05 [DEBUG]: Created indices on database collections
+03/06/2025 11:41:10 [DEBUG]: Getting public IP address.
+03/06/2025 11:41:10 [DEBUG]: Public IP address is '169.150.246.131'
+03/06/2025 11:41:10 [DEBUG]: Checking for exact match of ServerLaunch
+03/06/2025 11:41:10 [DEBUG]: Checking for exact match of ServerLaunch
+03/06/2025 11:41:10 [DEBUG]: Sending ServerLaunch message to Secondary Webhook
+03/06/2025 11:41:10 [DEBUG]: Trying webhook with payload: {"content":"🚀 **Launching Server:** *Survival tip: Running away is an acceptable strategy.* 🚀","username":null,"avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+03/06/2025 11:41:10 [DEBUG]: DispatchRequest.4c6ab306: sending 239 bytes to Discord
+03/06/2025 11:41:14 [DEBUG]: Checking for exact match of ServerStart
+03/06/2025 11:41:14 [DEBUG]: Checking for exact match of ServerStart
+03/06/2025 11:41:14 [DEBUG]: Sending ServerStart message to Secondary Webhook
+03/06/2025 11:41:14 [DEBUG]: Trying webhook with payload: {"content":"🟢 **Server Started:** *The world is ready for you to conquer… or destroy with bad decisions.* 🟢","username":null,"avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+03/06/2025 11:41:14 [DEBUG]: DispatchRequest.bb778b4b: sending 255 bytes to Discord
+03/06/2025 12:10:38 [DEBUG]: Checking for exact match of ServerSave
+03/06/2025 12:10:38 [DEBUG]: Checking for exact match of ServerSave
+03/06/2025 12:10:38 [DEBUG]: Sending ServerSave message to Secondary Webhook
+03/06/2025 12:10:38 [DEBUG]: Trying webhook with payload: {"content":"💾 **World Save:** *Saving... because you definitely don’t want to lose your last encounter with that troll.* 💾","username":null,"avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+03/06/2025 12:10:38 [DEBUG]: DispatchRequest.5ddda004: sending 270 bytes to Discord
+03/06/2025 12:40:38 [DEBUG]: Checking for exact match of ServerSave
+03/06/2025 12:40:38 [DEBUG]: Checking for exact match of ServerSave
+03/06/2025 12:40:38 [DEBUG]: Sending ServerSave message to Secondary Webhook
+03/06/2025 12:40:38 [DEBUG]: Trying webhook with payload: {"content":"💾 **World Save:** *Saving... may the world be ready for whatever nonsense you do next.* 💾","username":null,"avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+03/06/2025 12:40:38 [DEBUG]: DispatchRequest.0adb590b: sending 247 bytes to Discord
+03/06/2025 13:10:38 [DEBUG]: Checking for exact match of ServerSave
+03/06/2025 13:10:38 [DEBUG]: Checking for exact match of ServerSave
+03/06/2025 13:10:38 [DEBUG]: Sending ServerSave message to Secondary Webhook
+03/06/2025 13:10:38 [DEBUG]: Trying webhook with payload: {"content":"💾 **World Save:** *Saving your progress. No promises we didn’t mess something up on the way!* 💾","username":null,"avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+03/06/2025 13:10:38 [DEBUG]: DispatchRequest.f5094bcb: sending 255 bytes to Discord
+03/06/2025 13:40:39 [DEBUG]: Checking for exact match of ServerSave
+03/06/2025 13:40:39 [DEBUG]: Checking for exact match of ServerSave
+03/06/2025 13:40:39 [DEBUG]: Sending ServerSave message to Secondary Webhook
+03/06/2025 13:40:39 [DEBUG]: Trying webhook with payload: {"content":"💾 **World Save:** *Your progress is saved! Now, if only we could save you from that boar.* 💾","username":null,"avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+03/06/2025 13:40:39 [DEBUG]: DispatchRequest.6cb94d62: sending 250 bytes to Discord
+03/06/2025 14:00:16 [DEBUG]: Checking for exact match of ServerStop
+03/06/2025 14:00:16 [DEBUG]: Checking for exact match of ServerStop
+03/06/2025 14:00:16 [DEBUG]: Sending ServerStop message to Secondary Webhook
+03/06/2025 14:00:16 [DEBUG]: Trying webhook with payload: {"content":"⚙️ **Server Stopping:** *The server is stopping, and so are all the creatures waiting to kill you... for now.* ⚙️","username":null,"avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+03/06/2025 14:00:16 [DEBUG]: DispatchRequest.84229c24: sending 273 bytes to Discord
+03/06/2025 14:00:16 [DEBUG]: Checking for exact match of ServerSave
+03/06/2025 14:00:16 [DEBUG]: Checking for exact match of ServerSave
+03/06/2025 14:00:16 [DEBUG]: Sending ServerSave message to Secondary Webhook
+03/06/2025 14:00:16 [DEBUG]: Trying webhook with payload: {"content":"💾 **World Save:** *Just saving everything... except for the boars. They're still hunting you.* 💾","username":null,"avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+03/06/2025 14:00:16 [DEBUG]: DispatchRequest.a20a0f37: sending 254 bytes to Discord
+03/06/2025 14:00:19 [DEBUG]: Checking for exact match of ServerShutdown
+03/06/2025 14:00:19 [DEBUG]: Checking for exact match of ServerShutdown
+03/06/2025 14:00:19 [DEBUG]: Sending ServerShutdown message to Secondary Webhook
+03/06/2025 14:00:19 [DEBUG]: Trying webhook with payload: {"content":"🔴 **Server Stopped:** *All systems are shut down. Go ahead and relax... but keep an eye out for greydwarfs.* 🔴","username":null,"avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+03/06/2025 14:00:19 [DEBUG]: DispatchRequest.905563a1: sending 268 bytes to Discord
+03/06/2025 14:00:19 [DEBUG]: Closing LiteDB connection
