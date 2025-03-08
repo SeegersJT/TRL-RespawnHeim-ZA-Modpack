@@ -1,10 +1,16 @@
 # Changelog
 
+## Version 2.0.10
+- Updated Mod - Colored_Food_UI - v0.2.1
+- Added Config file for BiggerBoatMapExploreRedius and reduced radius from 500 to 75.
+- Removed Target Portals (Not compatable)
+- Removed FloatingItems (Breaks when BoneMaw spawns)
+
 ## Version 2.0.9
-- Removed AutoFeul
+- Removed AutoFuel (Not compatable)
 
 ## Version 2.0.8
-- Removed AutoFeed
+- Removed AutoFeed (Not compatable)
 
 ## Version 2.0.7
 - Updated the following Mods:
