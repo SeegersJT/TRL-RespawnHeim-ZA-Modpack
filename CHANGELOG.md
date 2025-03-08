@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 2.0.12
+- Added BoatAdditions (Mod got updated)
+- Added TargetPortals (Mod got updated)
+
+## Version 2.0.11
+- Removed BoatAdditions (Not compatable)
+
 ## Version 2.0.10
 - Updated Mod - Colored_Food_UI - v0.2.1
 - Added Config file for BiggerBoatMapExploreRedius and reduced radius from 500 to 75.
